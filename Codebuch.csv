@@ -1,0 +1,16 @@
+CODEBUCH,
+"Erhoben wurde die Gästeliste der Talkshow Anne Will von den Episoden 500 bis 505 im Jahr 2022 zum Thema Ukraine.
+Quelle: https://www.fernsehserien.de/anne-will/episodenguide",
+Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.,
+Wert,Kommentar
+edgelist,
+from,ID des Knoten-Mitglieds
+to ,ID der Knoten-Mitgliedschaft
+relationship,1 = Teilnahme Talkshow; 2 = Parteimitgliedschaft
+nodelist,
+id,ID aus der Edgelist
+name,Voller Name/Bezeichnung 
+party,"Parteizugehörigkeit, codiert nach Parteiname"
+sector,"z.B. Politik, Journalismus, Wissenschaft, etc."
+country,Lebensmittelpunkt
+type,"1 als Person, 2 als Organisation"
