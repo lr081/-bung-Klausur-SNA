@@ -1,0 +1,37 @@
+id,name,sector,party,country,type
+lk,Lars Klingbeil,Politik,spd,Deutschland,1
+uv,Ursula von der Leyen,Politik,cdu,Deutschland,1
+nr,Norbert Röttgen,Politik,cdu,Deutschland,1
+sw,Sahra Wagenknecht,Politik,linke,Deutschland,1
+cs,Constanze Stelzenmüller,Justiz,,USA,1
+cl,Christian Lindner,Politik,fdp,Deutschland,1
+ks,Karl Schlögel,Geschichte,,Deutschland,1
+lm,Ljudmyla Melnyk,Wissenschaft,,Ukraine,1
+kd,Kristina Dunz,Journalismus,,Deutschland,1
+el,Egils Levits,Politik,na,Lettland,1
+ab,Annalena Baerbock,Politik,gruene,Deutschland,1
+ft,Frans Timmermans,Politik,pvda,Niederlande,1
+am,Andrij Melnyk,Politik,,Ukraine,1
+al,Alexander Graf Lambsdorff,Politik,fdp,Deutschland,1
+er,Egon Ramms,Bundeswehr,,Deutschland,1
+rh,Robert Habeck,Politik,gruene,Deutschland,1
+cm,Claudia Major,Wissenschaft,,Deutschland,1
+kp,Katja Petrowskaja,Journalismus,,Ukraine,1
+rk,Roderich Kiesewetter,Politik,cdu,Deutschland,1
+sb,Stefanie Babst,Wissenschaft,,Deutschland,1
+ch,Christoph Heusgen,Politik,,Deutschland,1
+mw,Marina Weisband,Journalismus,,Ukraine,1
+os,Olaf Scholz,Politik,spd,Deutschland,1
+500,Folge 500,,,,2
+501,Folge 501,,,,2
+502,Folge 502,,,,2
+503,Folge 503,,,,2
+504,Folge 504,,,,2
+505,Folge 504,,,,2
+gruene,Buendnis 90/Gruene,,,,2
+cdu,Christlich Demokratische Union Deutschlands,,,,2
+fdp,Freie Demokratische Partei,,,,2
+spd,Sozialdemokratische Partei Deutschlands,,,,2
+linke,Die Linke,,,,2
+na,Lettische Nationale,,,,2
+pvda,Partij van de Arbeid,,,,2
